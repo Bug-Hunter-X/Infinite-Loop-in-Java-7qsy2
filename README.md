@@ -1,0 +1,1 @@
+This repository contains a simple Java program with an infinite loop bug. The Bug.java file demonstrates the faulty code, while the BugSolution.java file provides the corrected version.  The bug is a common off-by-one error, where the loop counter is not properly updated.
